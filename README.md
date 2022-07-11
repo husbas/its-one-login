@@ -1,10 +1,5 @@
 
 # ITS One Login
-Contributors: Husain Basrawala
-Website link: https://www.shubbaktech.com/
-Tags: wordpress, plugin, ITS One Login
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 This plugin provides ITS One Login implementation simpler for Wordpress websites.
 
@@ -36,3 +31,12 @@ You must have approval and integration details from ITS Website.
 **1.0**
 * 2022-07-08
 * Initial release
+
+## General Info
+```
+Contributors: Husain Basrawala
+Website link: https://www.shubbaktech.com/
+Tags: wordpress, plugin, ITS One Login
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+```
